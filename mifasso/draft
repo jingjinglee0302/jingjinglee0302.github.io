@@ -1,0 +1,138 @@
+Home page
+Course
+	all course
+	tutorial video
+	enroll
+	course fee
+Instrument
+	Shops
+	Sell
+	promotion
+Social
+	partnership
+	recommendation
+	News
+	events
+	blog
+	reviews
+Reach Us
+		about
+		contact
+		Support
+		FAQ
+Register
+
+
+
+
+
+#59c6bc
+<a href="index.html" style="color:white; ">
+	<span style=" font-size:200%; font-weight:700;">M i f a s s o</span>
+	<br />
+	<span style=" ">M u s i c &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S c h o o l</span>
+</a>
+
+
+<div class="menu_main_wrap">
+	<nav class="menu_main_nav_area">
+		<ul id="menu_main" class="menu_main_nav">
+			<li class="menu-item current-menu-ancestor current-menu-parent menu-item-has-children"><a href="index.html#">Home</a>
+				<!-- <ul class="sub-menu">
+					<li class="menu-item current-menu-item page-item-301"><a href="index.html">Home</a></li>
+					<li class="menu-item"><a href="home-2.html">Home 2</a></li>
+					<li class="menu-item"><a href="home-3.html">Home 3</a></li>
+				</ul> -->
+			</li>
+			<li class="menu-item menu-item-has-children"><a href="index.html#">Courses</a>
+				<ul class="sub-menu">
+					<li class="menu-item"><a href="course.html">Main</a></li>
+					<li class="menu-item"><a href="enroll2.html">Enroll</a></li>
+					<li class="menu-item menu-item-has-children"><a href="classes.html#">All courses</a>
+						<ul class="sub-menu">
+							<li class="menu-item"><a href="classes.html">Kids</a></li>
+							<li class="menu-item"><a href="classes.html">Teens</a></li>
+							<li class="menu-item"><a href="classes.html">Adults</a></li>
+							<li class="menu-item"><a href="classes.html">Private Lesson</a></li>
+
+						</ul>
+					</li>
+					<li class="menu-item menu-item"><a href="video-tutorials.html#">Videos Tutorials</a></li>
+					<li class="menu-item9"><a href="fee.html">Course Fee</a></li>
+
+				</ul>
+			</li>
+			<li class="menu-item menu-item-has-children"><a href="index.html#">Instruments</a>
+				<ul class="sub-menu">
+					<li class="menu-item"><a href="shop.html">Shop</a></li>
+					<li class="menu-item"><a href="seller.html">Sell</a></li>
+					<li class="menu-item"><a href="promo.html">Promotion</a></li>
+				</ul>
+			</li>
+			<li class="menu-item menu-item-has-children"><a href="index.html#">Social</a>
+				<ul class="sub-menu">
+					<li class="menu-item"><a href="partners.html">Partnership</a></li>
+					<li class="menu-item"><a href="recommend.html">Recommendation</a></li>
+					<li class="menu-item"><a href="classic.html">News</a></li>
+					<li class="menu-item"><a href="events.html">Events</a></li>
+					<li class="menu-item"><a href="classic.html">Blogs</a></li>
+					<li class="menu-item"><a href="gallery.html">Gallery</a></li>
+					<li class="menu-item"><a href="single-post.html">Community</a></li>
+
+				</ul>
+			</li>
+			<li class="menu-item"><a href="index.html">Reach Us</a>
+				<ul class="sub-menu">
+					<li class="menu-item"><a href="about.html">About</a></li>
+					<li class="menu-item"><a href="contact.html">Contact</a></li>
+					<li class="menu-item"><a href="support.html">Support</a></li>
+					<li class="menu-item"><a href="faq.html">FAQ</a></li>
+
+				</ul>
+				</li>
+			<li class="bordered menu-item"><a href="bookonline.html">Register</a></li>
+		</ul>
+	</nav>
+</div>
+
+
+<footer class="footer_wrap widget_area scheme_original">
+	<div class="footer_wrap_inner widget_area_inner">
+		<div class="content_wrap">
+			<div class="columns_wrap">
+				<aside id="text-2" class="widget_number_1 column-1_3 widget widget_text">
+					<h5 class="widget_title">Address</h5>
+					<div class="textwidget"><span class="sc_icon icon-location-1"></span><span>Level 30, Tower B, <br>Crown Suite, Jln 8<br>Bangsar South, 59200 <br>Kuala Lumpur, Federal Territory of Kuala Lumpur</span></div>
+				</aside><aside id="melodyschool_widget_twitter-2" class="widget_number_2 column-1_3 widget widget_twitter">
+					<h5 class="widget_title">Twitter</h5>
+					<ul>
+						<li class="theme_text last">A standard, modern and well-equipped virtual music school with professional team of musicians and vocalists. We believe music is for everyone! Visit us to know more.<a href="https://twitter.com/Mifasso_music.html#" class="username" target="_blank">@Mifasso_music</a></li>
+					</ul>
+				</aside><aside id="text-3" class="widget_number_3 column-1_3 widget widget_text">
+					<h5 class="widget_title">Open hours</h5>
+					<div class="textwidget"><span class="sc_icon icon-clock-empty"></span><span>Monday - Friday: 10am - 8pm<br>Saturday & Sunday: 10am - 5pm</span></div>
+				</aside>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<div class="columns_wrap">
+	<aside id="text-2" class="widget_number_1 column-1_3 widget widget_text">
+		<h5 class="widget_title">Address</h5>
+		<div class="textwidget"><span class="sc_icon icon-location-1"></span><span>Level 30, Tower B, <br>Crown Suite, Jln 8<br>Bangsar South, 59200 <br>Kuala Lumpur, Federal Territory of Kuala Lumpur</span></div>
+	</aside><aside id="melodyschool_widget_twitter-2" class="widget_number_2 column-1_3 widget widget_twitter">
+		<h5 class="widget_title">Twitter</h5>
+		<ul>
+			<li class="theme_text last">A standard, modern and well-equipped virtual music school with professional team of musicians and vocalists. We believe music is for everyone! Visit us to know more.<a href="https://twitter.com/Mifasso_music.html#" class="username" target="_blank">@Mifasso_music</a></li>
+		</ul>
+	</aside><aside id="text-3" class="widget_number_3 column-1_3 widget widget_text">
+		<h5 class="widget_title">Open hours</h5>
+		<div class="textwidget"><span class="sc_icon icon-clock-empty"></span><span>Monday - Friday: 10am - 8pm<br>Saturday & Sunday: 10am - 5pm</span></div>
+	</aside>
+</div>
+
+
+<div class="copyright_text">
+	<p>Mifasso Music School © 2017 All Rights Reserved <a href="http://ancorathemes.com/">Terms of Use</a> and <a href="http://ancorathemes.com/">Privacy Policy</a></p>
+</div>
